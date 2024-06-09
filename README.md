@@ -37,4 +37,4 @@ ___
 
 ### 💻 ตัวอย่างเว็บไซต์
 
-
+![index](https://github.com/Adisak-KS/Workshop-Input-Character-Count/blob/main/previews/pre-1.png)
